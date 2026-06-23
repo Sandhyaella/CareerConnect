@@ -1,5 +1,5 @@
 # CareerConnect
-# CareerConnect
+
 
 CareerConnect is a MERN Stack-based student collaboration platform designed to help students connect, manage projects, track applications, and communicate effectively.
 
